@@ -3,7 +3,7 @@ title: "DA2004 Programmeringsteknik för matematiker"
 collection: "teaching"
 permalink: /teaching/DA2004_progtek.md
 type: "Undergraduate course"
-date: "Since 2016"
+date: 2016-01-01
 ---
 
 This course is my departments introduction to programming. We use Python but
