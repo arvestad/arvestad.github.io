@@ -3,6 +3,7 @@ title: "DA2004 Programmeringsteknik för matematiker"
 collection: "teaching"
 permalink: /teaching/DA2004_progtek.md
 type: "Undergraduate course"
+venue: "Stockholm University"
 date: 2016-01-01
 ---
 

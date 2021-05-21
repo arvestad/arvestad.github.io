@@ -3,6 +3,7 @@ title: "DA2005 Programmeringsteknik"
 collection: "teaching"
 permalink: /teaching/DA2005_progtek.md
 type: "Undergraduate course"
+venue: "Stockholm University"
 date: 2021-01-15
 ---
 
