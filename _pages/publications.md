@@ -6,7 +6,7 @@ author_profile: true
 ---
 
   See <a href="https://scholar.google.se/citations?user=t3xciDsAAAAJ&hl=en">Google Scholar</a>
-  or <a href="https://orcid.org/0000-0001-5341-1733">ORCiD</a> profile for my publications.
+  or <a href="https://orcid.org/0000-0001-5341-1733">ORCID</a> profile for my publications.
 
 {% include base_path %}
 
