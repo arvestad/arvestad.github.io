@@ -18,6 +18,24 @@ n.
 ## Where to find it
 
 * Plain installation: you find `alv` on <a href="https://pypi.org/project/alv/">PyPI</a>. Run `pip install alv` and you are done.
+* Using Anaconda? <a href="https://anaconda.org/bioconda/alv">`alv` is part of bioconda</a>. Install with `conda install -c bioconda alv`.
 * Source code: see the <a href="https://github.com/arvestad/alv">github repository</a>.
 
 <img src='/images/alv_pf00005.png'>
+
+## Please cite
+
+Arvestad, (2018). alv: a console-based viewer for molecular sequence alignments. Journal of Open Source Software, 3(31), 955, https://doi.org/10.21105/joss.00955
+
+```
+@Article{alv2018,
+  author = 	 {Lars Arvestad},
+  title = 	 {alv: a console-based viewer for molecular sequence alignments},
+  journal = 	 {Journal of Open Source Software},
+  year = 	 2018,
+  volume = 	 3,
+  number = 	 31,
+  pages = 	 955,
+  doi =          {https://doi.org/10.21105/joss.00955}
+}
+```
