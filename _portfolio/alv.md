@@ -19,3 +19,5 @@ n.
 
 * Plain installation: you find `alv` on <a href="https://pypi.org/project/alv/">PyPI</a>. Run `pip install alv` and you are done.
 * Source code: see the <a href="https://github.com/arvestad/alv">github repository</a>.
+
+<img src='/images/alv_pf00005.png'>
