@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
   See <u><a href="{{author.googlescholar}}">my Google Scholar</a>
   or <u> <a href="{{author.orcid}}">ORCID</a> profile for my publications.</u>
-{% endif %}
 
 {% include base_path %}
 
