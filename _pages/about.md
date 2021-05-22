@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+This is about me.
