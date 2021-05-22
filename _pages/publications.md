@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-  See <u><a href="{{author.googlescholar}}">my Google Scholar</a>
-  or <u> <a href="{{author.orcid}}">ORCID</a> profile for my publications.</u>
+  See <a href="{{author.googlescholar}}">my Google Scholar</a>
+  or <a href="{{author.orcid}}">ORCID</a> profile for my publications.
 
 {% include base_path %}
 
